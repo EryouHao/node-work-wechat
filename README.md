@@ -2,6 +2,12 @@
 
 基于Node.js的企业微信消息接口服务中间件
 
+已实现：
+- 消息服务器的认证
+- 获取access_token
+- 被动回复消息(机器人)
+- 主动推送消息
+
 # Installation
 ``` shell
 $ npm install node-work-wechat
