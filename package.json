@@ -1,6 +1,6 @@
 {
   "name": "node-work-wechat",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "node-work-wechat",
   "main": "index.js",
   "scripts": {
